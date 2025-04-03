@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nethan Shaik</h1>
 <h3 align="center">A passionate Data Engineer and Machine Learning Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nethanshaik&label=Profile%20views&color=0e75b6&style=flat" alt="nethanshaik" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nethanshaik" alt="nethanshaik" /></a> </p>
 
 - 🌱 I’m currently learning **Tensorflow, Pytorch and Kafka**
