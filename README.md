@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nethan-shaik-9bb43914a/" target="blank"><img src="https://brand.linkedin.com/in-logo" alt="nethanshaik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nethan-shaik-9bb43914a/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="nethanshaik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
