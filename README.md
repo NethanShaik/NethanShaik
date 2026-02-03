@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nethan Shaik</h1>
 <h3 align="center">A passionate SDE and Machine Learning Engineer</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nethanshaik" alt="nethanshaik" /></a> </p>
 
-- 🌱 I’m currently learning **Tensorflow, Pytorch and Kafka**
+- 🌱 I’m currently working on ThoughtMap AI
 
 - 📫 How to reach me **nethanshaik@gmail.com**
 
