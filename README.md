@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nethan Shaik</h1>
 <h3 align="center">A passionate SDE and Machine Learning Engineer</h3>
 
-<p align="center"> 🌱 I’m currently working on ThoughtMap AI and MLaaS </p>
+<p align="center"> 🌱 I’m currently working on ThoughtMap AI  </p>
 
 <p align="center"> 📫 How to reach me **nethanshaik@gmail.com** </p>
 
