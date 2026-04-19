@@ -12,6 +12,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,aws,azure,git,kotlin,linux,mysql,opencv,pandas,python,pytorch,sklearn,tensorflow,django,docker,react,javascript" />
+  <img src="https://skillicons.dev/icons?i=arduino,aws,azure,git,hadoop,kotlin,linux,mysql,opencv,pandas,python,pytorch,sklearn,tensorflow,django,docker,react,javascript" 
+       height="50" />
 </p>
 
