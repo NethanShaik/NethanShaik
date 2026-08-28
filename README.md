@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nethan Shaik</h1>
+<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nethan+Shaik" alt="Typing SVG" /></h1>
 <h3 align="center">A passionate SDE and Machine Learning Engineer</h3>
 
 <p align="center"> 🌱 I’ve just created ThoughtMap AI!  </p>
