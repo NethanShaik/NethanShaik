@@ -1,7 +1,7 @@
 <h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=226BF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nethan+Shaik" alt="Typing SVG" />
 <h3 align="center">A passionate SDE and Machine Learning Engineer</h3>
 
-<p align="center"> 🌱 I’ve just created ThoughtMap AI!  </p>
+<p align="center"> 🌱 I’ve just created ThoughtMap AI and Financial Dashboard!  </p>
 
 <p align="center"> 📫 How to reach me **nethanshaik@gmail.com** </p>
 
